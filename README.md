@@ -15,6 +15,7 @@ Sistema de gerenciamento de loja com Python + MySQL para controle de:
   - Histórico completo de pedidos
 - 🔒 Controle de acesso por tipo de usuário
 
+
 ## Estrutura do Projeto 📂
 
 shop/
